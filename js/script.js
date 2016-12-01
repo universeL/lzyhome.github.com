@@ -146,4 +146,6 @@
         $linkUl.append($list.eq(ran));
         $list.splice(ran, 1);
     }
+    
+    //背景图片的切换
 })(jQuery);
